@@ -1,0 +1,9 @@
+﻿ID,Work Item Type,Title,Assigned To,State,Tags
+"19","Epic","Improve Performance and Scalability",,"New",
+"20","Epic","Improve Search Functionality",,"New",
+"21","Epic","Internationalization and Localization Support",,"New",
+"22","Epic","Performance Optimization",,"New",
+"25","Epic","Database Performance Optimization",,"New",
+"26","Epic","Database Backup and Recovery",,"New",
+"28","Epic","Database Schema Versioning and Deployment",,"New",
+"30","Epic","Login and Registration functionality",,"New",
